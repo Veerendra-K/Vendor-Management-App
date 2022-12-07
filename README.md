@@ -6,7 +6,7 @@ Full stack MERN Project
 ---
 
 Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. <br/>
-The App is called "Vendor Management App" and it is a simple web app that allows users to create their data in Card style.
+The App is called "Vendor Management App" and it is a simple web app that allows vendors to create their data.
 
 ---
 
